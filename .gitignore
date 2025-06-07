@@ -1,0 +1,29 @@
+# Logslogs
+ssantos.site/*.log
+ssantos.site/npm-debug.log*
+ssantos.site/yarn-debug.log*
+ssantos.site/yarn-error.log*
+ssantos.site/pnpm-debug.log*
+lssantos.site/erna-debug.log*
+
+ssantos.site/node_modules
+ssantos.site/.DS_Store
+ssantos.site/dist
+ssantos.site/dist-ssr
+ssantos.site/coverage
+ssantos.site/*.local
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+ssantos.site/.vscode/*
+!ssantos.site/.vscode/extensions.json
+ssantos.site/.idea
+ssantos.site/*.suo
+ssantos.site/*.ntvs*
+ssantos.site/*.njsproj
+ssantos.site/*.sln
+ssantos.site/*.sw?
+
+ssantos.site/*.tsbuildinfo
